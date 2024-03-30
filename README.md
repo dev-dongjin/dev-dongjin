@@ -6,7 +6,7 @@
 - 💬 Ex-Software Engineer at [Softbank](https://group.softbank/en) and [Tickle](https://tickleinvest.com/)
 - 🤖 Experience in both Web2 and Web3
 - 🏠 Currently living in Vancouver, Canada🇨🇦
-- 🐵 Trilingual! speak 🇺🇸(English), 🇰🇷(Korean) and 🇯🇵(Japanese). And a little bit of Mandarin
+- 🐵 Polyglot! speaking 🇺🇸(English), 🇰🇷(Korean), 🇯🇵(Japanese), and a bit of 🉑(Mandarin)
 - 💼 Worked in 🇰🇷(Korea) | 🇹🇷(Türkiye) | 🇲🇻(Maldives) | 🇯🇵(Japan)
 - 👨🏻‍🎓 Studied in 🇰🇷(Korea) | 🇵🇭(Philippines) | 🇬🇧(United Kingdom) | 🇹🇼(Taiwan)
 - 🌏 Love traveling and have traveled to 20 countries!
