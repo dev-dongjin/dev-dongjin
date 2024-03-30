@@ -2,7 +2,7 @@
 
 ### About me
 
-- 👨🏻‍💻 Software engineer with over 3 years
+- 👨🏻‍💻 Software engineer with over 3 years of experience
 - 💬 Ex-Software Engineer at [Softbank](https://group.softbank/en) and [Tickle](https://tickleinvest.com/)
 - 🤖 Experience in both Web2 and Web3
 - 🏠 Currently living in Vancouver, Canada🇨🇦
