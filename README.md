@@ -35,5 +35,5 @@
 
 [![](https://img.shields.io/badge/-👟%20SneakDraw-000)](https://github.com/uracali/SneakDraw)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/dev-dongjin/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-🪙%20CryptoKick-000)](https://github.com/dev-dongjin/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-🪙%20CryptoKick-000)](https://github.com/dev-dongjin/cryptokick0827)
 
